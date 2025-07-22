@@ -1,8 +1,5 @@
 # 🛡️ AI-Driven Threat Detection System
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor/badge/scikit--learn-F7931E?style=for-the-badge&logo=sciimg.shields.io/badge/pandas-150458?style=for/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColord AI-powered cybersecurity solution for real-time threat detection*
+ AI-powered cybersecurity solution for real-time threat detection
 
 Leveraging machine learning algorithms to identify and mitigate sophisticated cyber threats with **99.7% accuracy**.
 
